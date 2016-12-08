@@ -1,0 +1,2 @@
+# DiskScheduling
+FCFS and STFS 
